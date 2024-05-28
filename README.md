@@ -38,7 +38,7 @@ To use this project, follow these steps:
 
 ## Data
 The dataset used for this project is taken from Kaggle's data repository and includes various features such as location, size, number of bedrooms, etc., and the target variable is the price of houses in the year 2018-19. 
-Please refer to the "Pune_house_price_prediction.csv" directory for the dataset and detailed description
+Please refer to the "Pune house data.csv" directory for the dataset and detailed description
 
 ## Model
 The project explores several machine learning models, including:
